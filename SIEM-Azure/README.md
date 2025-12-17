@@ -16,3 +16,7 @@ The goal is to ingest logs, create detections, and analyze security events in a 
 - SIEM configuration and alerting
 - Security event investigation
 
+## Environment
+- Platform: Microsoft Azure
+- Services: Azure Monitor, Log Analytics, Sentinel
+- Scope: Dedicated resource group for lab isolation
