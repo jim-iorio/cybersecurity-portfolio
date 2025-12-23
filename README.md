@@ -7,7 +7,7 @@ This repository contains hands-on cybersecurity projects demonstrating practical
 ### 1. SIEM Implementation in Azure
 - Deployed Azure resources and configured log ingestion
 - Clearly presented security events on worldwide map
-- [SIEM-Azure]
+- [Link to project folder](/SIEM-Azure/)
 
 ### 2. Active Directory Security Lab
 - Deployed AD environment
