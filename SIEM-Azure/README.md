@@ -1,7 +1,7 @@
 # SIEM/SOC in Azure
 
 This project demonstrates the setup of a basic SIEM and partial SOC using Microsoft Azure services.  
-The goal is to create a honeypot, ingest failed login logs, and plot onto a real-time visual representation in a cloud environment.
+The goal is to create a virtual machine, ingest data logs, and clearly present attack data in a cloud environment.
 
 ## Technologies Used
 - Microsoft Azure
