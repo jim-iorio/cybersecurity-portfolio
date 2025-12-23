@@ -1,4 +1,4 @@
-# SIEM in Azure
+# SIEM/SOC in Azure
 
 This project demonstrates the setup of a basic SIEM using Microsoft Azure services.  
 The goal is to ingest logs, create detections, and analyze security events in a cloud environment.
@@ -6,7 +6,7 @@ The goal is to ingest logs, create detections, and analyze security events in a 
 ## Technologies Used
 - Microsoft Azure
 - Azure Log Analytics
-- Azure Monitor
+- Azure Monitoring Agent
 - Microsoft Sentinel
 - Windows Virtual Machine
 
@@ -14,7 +14,7 @@ The goal is to ingest logs, create detections, and analyze security events in a 
 - Cloud security fundamentals
 - Log ingestion and analysis
 - SIEM configuration and alerting
-- Security event investigation
+- Visual representation via Sentinel Workbooks
 
 ## Environment
 - Platform: Microsoft Azure
