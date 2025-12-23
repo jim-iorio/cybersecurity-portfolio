@@ -13,7 +13,7 @@ The goal is to create a virtual machine, ingest data logs, and clearly present a
 ## Key Skills Demonstrated
 - Cloud security fundamentals
 - Log ingestion and analysis
-- SIEM configuration and alerting
+- SIEM configuration
 - Visual representation via Sentinel Workbooks
 
 ## Environment
