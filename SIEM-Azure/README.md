@@ -5,6 +5,11 @@ The goal is to create a virtual machine, ingest data logs, and clearly present a
 
 Walkthrough video: https://www.loom.com/share/5f18247fd5c34b2ea3f246ab120d62b7
 
+##**Project Architecture**
+
+![SOC/SIEM Project Architecture](images/ad-architecture.png)
+
+
 ## Technologies Used
 - Microsoft Azure
 - Azure Log Analytics
