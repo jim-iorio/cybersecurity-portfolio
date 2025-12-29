@@ -5,10 +5,11 @@ The goal is to create a virtual machine, ingest data logs, and clearly present a
 
 Walkthrough video: https://www.loom.com/share/5f18247fd5c34b2ea3f246ab120d62b7
 
-##**Project Architecture**
+## Project Architecture
+
+This diagram illustrates how this project lures live attackers to a honeypot VM accessible via the public internet. This VM is tied to a Log Analytics Workspace and Microsoft Sentinel, allowing me to monitor log data and plot it on a worldwide VM Attack Map using Sentinel Workbooks. 
 
 ![SOC / SIEM Architecture](screenshots/azure-soc-siem-architecture.jpg)
-
 
 ## Technologies Used
 - Microsoft Azure
