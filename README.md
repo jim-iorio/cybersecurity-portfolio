@@ -12,7 +12,7 @@ This repository contains hands-on cybersecurity projects demonstrating practical
 ### 2. Active Directory Security Lab
 - Deployed AD environment
 - Simulated attacks and reviewed logs
-- [Link to project folder]
+- [Link to project folder](/Active-Directory-Lab/)
 
 ### 3. Vulnerability Management Lab
 - Scanned systems for vulnerabilities
