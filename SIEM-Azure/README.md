@@ -7,7 +7,7 @@ Walkthrough video: https://www.loom.com/share/5f18247fd5c34b2ea3f246ab120d62b7
 
 ##**Project Architecture**
 
-[SOC/SIEM Project Architecture](/screenshots/Azure SOC_SIEM Architecture.jpg/)
+![SOC / SIEM Architecture](screenshots/azure-soc-siem-architecture.jpg)
 
 
 ## Technologies Used
