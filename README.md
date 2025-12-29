@@ -11,7 +11,7 @@ This repository contains hands-on cybersecurity projects demonstrating practical
 
 ### 2. Active Directory Security Lab
 - Deployed AD environment
-- Simulated attacks and reviewed logs
+- Created a bank of user info via PowerShell and connected Client machine to AD environment
 - [Link to project folder](/Active-Directory-Lab/)
 
 ### 3. Vulnerability Management Lab
