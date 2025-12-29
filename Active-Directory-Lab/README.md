@@ -1,4 +1,4 @@
-# Active Directory Project
+# Active Directory Lab
 
 This project demonstrates the setup and administration of a local Active Directory environment using Windows Server and Oracle VirtualBox.
 
