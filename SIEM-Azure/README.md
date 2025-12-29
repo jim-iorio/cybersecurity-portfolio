@@ -3,7 +3,9 @@
 This project demonstrates the setup of a basic SIEM and partial SOC using Microsoft Azure services.  
 The goal is to create a virtual machine, ingest data logs, and clearly present attack data in a cloud environment.
 
-Walkthrough video: https://www.loom.com/share/5f18247fd5c34b2ea3f246ab120d62b7
+## Walkthrough video
+
+https://www.loom.com/share/5f18247fd5c34b2ea3f246ab120d62b7
 
 ## Project Architecture
 
