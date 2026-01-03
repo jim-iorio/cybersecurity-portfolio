@@ -6,7 +6,7 @@ The lab simulates a small enterprise network with centralized identity and authe
 
 ## Walkthrough Video
 
-https://youtu.be/eKbMawQDKbY
+![https://youtu.be/eKbMawQDKbY]
 
 ## Project Architecture
 
