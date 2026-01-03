@@ -17,5 +17,5 @@ This repository contains hands-on cybersecurity projects demonstrating practical
 ### 3. Vulnerability Management Lab
 - Scanned systems for vulnerabilities
 - Prioritized and remediated findings
-- [Link to project folder]
+- [Link to project folder](/vulnerability-management-lab/)
 
