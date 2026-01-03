@@ -4,9 +4,7 @@ This project demonstrates the setup and administration of a local Active Directo
 
 The lab simulates a small enterprise network with centralized identity and authentication.
 
-## Walkthrough Video
-
-![https://youtu.be/eKbMawQDKbY]
+[Watch this video walkthrough!](https://youtu.be/eKbMawQDKbY)
 
 ## Project Architecture
 
